@@ -2,25 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.smartworkstack.com/</loc>
-    <lastmod>2026-03-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.smartworkstack.com/posts/</loc>
-    <lastmod>2026-03-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.smartworkstack.com/tags/</loc>
-    <lastmod>2026-03-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.smartworkstack.com/tags/test/</loc>
-    <lastmod>2026-03-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.smartworkstack.com/posts/test-article/</loc>
-    <lastmod>2026-03-18T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://www.smartworkstack.com/tags/ai-automation/</loc>
     <lastmod>2025-03-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.smartworkstack.com/tags/ai-business-tools/</loc>
+    <lastmod>2025-03-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.smartworkstack.com/</loc>
     <lastmod>2025-03-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.smartworkstack.com/categories/ai-tools/</loc>
@@ -50,6 +38,9 @@
     <loc>https://www.smartworkstack.com/posts/ai-automation-one-person-teams/</loc>
     <lastmod>2025-03-18T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://www.smartworkstack.com/posts/</loc>
+    <lastmod>2025-03-18T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://www.smartworkstack.com/categories/productivity/</loc>
     <lastmod>2025-03-18T00:00:00+00:00</lastmod>
   </url><url>
@@ -57,6 +48,9 @@
     <lastmod>2025-03-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.smartworkstack.com/tags/solopreneur-automation/</loc>
+    <lastmod>2025-03-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.smartworkstack.com/tags/</loc>
     <lastmod>2025-03-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.smartworkstack.com/tags/task-batching/</loc>
