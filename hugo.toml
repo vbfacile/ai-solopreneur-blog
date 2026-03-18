@@ -1,0 +1,11 @@
+baseURL = "https://ai-solopreneur-blog.mezian-amine.workers.dev"
+languageCode = "en-us"
+title = "AI Solopreneur Tools"
+theme = "PaperMod"
+
+[params]
+  description = "Honest reviews and comparisons of AI tools for solopreneurs"
+  ShowReadingTime = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowToc = true
