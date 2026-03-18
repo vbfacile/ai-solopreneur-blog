@@ -9,3 +9,21 @@ theme = "PaperMod"
   ShowPostNavLinks = true
   ShowBreadCrumbs = true
   ShowToc = true
+
+  # Affiliate links — replace with real links when you have them
+  # Use "#" as placeholder until you sign up for each program
+  affiliate_zapier = "#"
+  affiliate_make = "#"
+  affiliate_typeform = "#"
+  affiliate_hubspot = "#"
+  affiliate_stripe = "#"
+  affiliate_calendly = "#"
+  affiliate_notion = "#"
+  affiliate_canva = "#"
+  affiliate_grammarly = "#"
+  affiliate_todoist = "#"
+  affiliate_clickup = "#"
+  affiliate_monday = "#"
+  affiliate_asana = "#"
+  affiliate_freshbooks = "#"
+  affiliate_appsumo = "#"
