@@ -2,21 +2,73 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://ai-solopreneur-blog.mezian-amine.workers.dev/</loc>
+    <loc>https://www.smartworkstack.com/</loc>
     <lastmod>2026-03-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ai-solopreneur-blog.mezian-amine.workers.dev/posts/</loc>
+    <loc>https://www.smartworkstack.com/posts/</loc>
     <lastmod>2026-03-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ai-solopreneur-blog.mezian-amine.workers.dev/tags/</loc>
+    <loc>https://www.smartworkstack.com/tags/</loc>
     <lastmod>2026-03-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ai-solopreneur-blog.mezian-amine.workers.dev/tags/test/</loc>
+    <loc>https://www.smartworkstack.com/tags/test/</loc>
     <lastmod>2026-03-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ai-solopreneur-blog.mezian-amine.workers.dev/posts/test-article/</loc>
+    <loc>https://www.smartworkstack.com/posts/test-article/</loc>
     <lastmod>2026-03-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ai-solopreneur-blog.mezian-amine.workers.dev/categories/</loc>
+    <loc>https://www.smartworkstack.com/tags/ai-automation/</loc>
+    <lastmod>2025-03-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.smartworkstack.com/tags/ai-business-tools/</loc>
+    <lastmod>2025-03-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.smartworkstack.com/categories/ai-tools/</loc>
+    <lastmod>2025-03-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.smartworkstack.com/categories/business-automation/</loc>
+    <lastmod>2025-03-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.smartworkstack.com/tags/business-automation/</loc>
+    <lastmod>2025-03-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.smartworkstack.com/categories/</loc>
+    <lastmod>2025-03-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.smartworkstack.com/tags/context-switching/</loc>
+    <lastmod>2025-03-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.smartworkstack.com/categories/entrepreneurship/</loc>
+    <lastmod>2025-03-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.smartworkstack.com/tags/freelancer-productivity/</loc>
+    <lastmod>2025-03-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.smartworkstack.com/categories/freelancing/</loc>
+    <lastmod>2025-03-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.smartworkstack.com/posts/ai-automation-one-person-teams/</loc>
+    <lastmod>2025-03-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.smartworkstack.com/categories/productivity/</loc>
+    <lastmod>2025-03-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.smartworkstack.com/tags/scaling-without-hiring/</loc>
+    <lastmod>2025-03-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.smartworkstack.com/tags/solopreneur-automation/</loc>
+    <lastmod>2025-03-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.smartworkstack.com/tags/task-batching/</loc>
+    <lastmod>2025-03-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.smartworkstack.com/posts/ai-task-batching-freelancers/</loc>
+    <lastmod>2025-03-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.smartworkstack.com/tags/workflow-automation/</loc>
+    <lastmod>2025-03-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.smartworkstack.com/tags/workflow-optimization/</loc>
+    <lastmod>2025-03-18T00:00:00+00:00</lastmod>
   </url>
 </urlset>

@@ -2,10 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Categories on AI Solopreneur Tools</title>
-    <link>https://ai-solopreneur-blog.mezian-amine.workers.dev/categories/</link>
+    <link>https://www.smartworkstack.com/categories/</link>
     <description>Recent content in Categories on AI Solopreneur Tools</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="https://ai-solopreneur-blog.mezian-amine.workers.dev/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 18 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.smartworkstack.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI Tools</title>
+      <link>https://www.smartworkstack.com/categories/ai-tools/</link>
+      <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.smartworkstack.com/categories/ai-tools/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Business Automation</title>
+      <link>https://www.smartworkstack.com/categories/business-automation/</link>
+      <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.smartworkstack.com/categories/business-automation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Entrepreneurship</title>
+      <link>https://www.smartworkstack.com/categories/entrepreneurship/</link>
+      <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.smartworkstack.com/categories/entrepreneurship/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Freelancing</title>
+      <link>https://www.smartworkstack.com/categories/freelancing/</link>
+      <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.smartworkstack.com/categories/freelancing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Productivity</title>
+      <link>https://www.smartworkstack.com/categories/productivity/</link>
+      <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.smartworkstack.com/categories/productivity/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
