@@ -27,3 +27,13 @@ theme = "PaperMod"
   affiliate_asana = "#"
   affiliate_freshbooks = "#"
   affiliate_appsumo = "#"
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "Disclosure"
+    url = "/disclosure/"
+    weight = 99
