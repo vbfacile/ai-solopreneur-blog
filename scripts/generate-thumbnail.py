@@ -183,26 +183,33 @@ def generate(slug, output, category=None):
     # Accent bar at top
     d.rectangle([0, 0, W, 4], fill=palette["accent"])
 
-    # Category badge (top-left, small)
+    # Category badge (centered top area — survives cropping)
     if category:
-        tag_font = get_font(18, bold=True)
+        tag_font = get_font(20, bold=True)
         bbox = d.textbbox((0, 0), category.upper(), font=tag_font)
         tw = bbox[2] - bbox[0]
-        pad = 12
+        pad = 14
+        badge_x = (W - tw - 2 * pad) // 2
         d.rounded_rectangle(
-            [40, 30, 40 + tw + 2 * pad, 30 + 32],
+            [badge_x, 80, badge_x + tw + 2 * pad, 80 + 36],
             radius=6, fill=(*palette["accent"], 200)
         )
-        d.text((40 + pad, 36), category.upper(), fill=(255, 255, 255), font=tag_font)
+        d.text((badge_x + pad, 86), category.upper(), fill=(255, 255, 255), font=tag_font)
 
-    # Small logo + brand (bottom-left)
-    draw_iso_blocks(d, 62, H - 30, scale=1.0)
-    brand_font = get_font(18, bold=True)
-    d.text((88, H - 46), "SmartWorkStack", fill=(255, 255, 255, 180), font=brand_font)
+    # Logo + brand (centered bottom — survives cropping)
+    logo_x = W // 2 - 60
+    draw_iso_blocks(d, logo_x, H - 100, scale=1.2)
+    brand_font = get_font(20, bold=True)
+    brand_text = "SmartWorkStack"
+    bbox = d.textbbox((0, 0), brand_text, font=brand_font)
+    bw = bbox[2] - bbox[0]
+    d.text((logo_x + 30, H - 116), brand_text, fill=(255, 255, 255, 200), font=brand_font)
 
-    # URL (bottom-right)
     url_font = get_font(14)
-    d.text((W - 200, H - 38), "smartworkstack.com", fill=(255, 255, 255, 120), font=url_font)
+    url_text = "smartworkstack.com"
+    bbox2 = d.textbbox((0, 0), url_text, font=url_font)
+    uw = bbox2[2] - bbox2[0]
+    d.text((W // 2 - uw // 2, H - 80), url_text, fill=(255, 255, 255, 120), font=url_font)
 
     # Save
     os.makedirs(os.path.dirname(output) or ".", exist_ok=True)
