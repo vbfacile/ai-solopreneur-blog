@@ -49,17 +49,33 @@ theme = "congo"
     showRecent = true
     recentLimit = 10
 
-[[languages.en.menu.main]]
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+    [markup.goldmark.extensions]
+      [markup.goldmark.extensions.passthrough]
+        enable = true
+        [markup.goldmark.extensions.passthrough.delimiters]
+          block = [['\[', '\]'], ['$$', '$$']]
+          inline = [['\(', '\)']]
+  [markup.highlight]
+    noClasses = false
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel = 4
+
+[[menu.main]]
   name = "Articles"
-  url = "/posts/"
+  pageRef = "posts"
   weight = 2
 
-[[languages.en.menu.main]]
+[[menu.main]]
   name = "About"
-  url = "/about/"
+  pageRef = "about"
   weight = 3
 
-[[languages.en.menu.main]]
+[[menu.main]]
   name = "Disclosure"
-  url = "/disclosure/"
+  pageRef = "disclosure"
   weight = 4
