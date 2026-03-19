@@ -4,51 +4,70 @@
     <title>Categories on SmartWorkStack</title>
     <link>https://smartworkstack.com/categories/</link>
     <description>Recent content in Categories on SmartWorkStack</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 Mar 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://smartworkstack.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2026 SmartWorkStack</copyright>
+    <lastBuildDate>Thu, 19 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://smartworkstack.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    
     <item>
       <title>Tools &amp; Reviews</title>
       <link>https://smartworkstack.com/categories/tools--reviews/</link>
       <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
+      
       <guid>https://smartworkstack.com/categories/tools--reviews/</guid>
       <description></description>
+      
     </item>
+    
     <item>
       <title>AI Tools</title>
       <link>https://smartworkstack.com/categories/ai-tools/</link>
       <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
+      
       <guid>https://smartworkstack.com/categories/ai-tools/</guid>
       <description></description>
+      
     </item>
+    
     <item>
       <title>Business Automation</title>
       <link>https://smartworkstack.com/categories/business-automation/</link>
       <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
+      
       <guid>https://smartworkstack.com/categories/business-automation/</guid>
       <description></description>
+      
     </item>
+    
     <item>
       <title>Entrepreneurship</title>
       <link>https://smartworkstack.com/categories/entrepreneurship/</link>
       <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
+      
       <guid>https://smartworkstack.com/categories/entrepreneurship/</guid>
       <description></description>
+      
     </item>
+    
     <item>
       <title>Freelancing</title>
       <link>https://smartworkstack.com/categories/freelancing/</link>
       <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
+      
       <guid>https://smartworkstack.com/categories/freelancing/</guid>
       <description></description>
+      
     </item>
+    
     <item>
       <title>Productivity</title>
       <link>https://smartworkstack.com/categories/productivity/</link>
       <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
+      
       <guid>https://smartworkstack.com/categories/productivity/</guid>
       <description></description>
+      
     </item>
+    
   </channel>
 </rss>

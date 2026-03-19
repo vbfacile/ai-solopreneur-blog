@@ -1,81 +1,138 @@
-baseURL = "https://smartworkstack.com/"
+baseURL = "https://smartworkstack.com"
 languageCode = "en-us"
 title = "SmartWorkStack"
-theme = "congo"
+theme = "blowfish"
 
+[pagination]
+  pagerSize = 10
+
+# Taxonomies
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+
+# Outputs (JSON needed for search)
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+# ── Site Parameters ──────────────────────────────────────────
 [params]
-  description = "Honest reviews and comparisons of AI tools, productivity apps, and automation workflows for solopreneurs and remote workers."
-  colorScheme = "slate"
+  # Appearance
+  colorScheme = "blowfish"
   defaultAppearance = "light"
   autoSwitchAppearance = true
+
+  # Site info
+  description = "Honest reviews and comparisons of AI tools, productivity apps, and automation workflows for solopreneurs and remote workers."
+  mainSections = ["posts"]
+  robots = "index, follow"
   enableSearch = true
   enableCodeCopy = true
-  enableImageLazyLoading = true
-  defaultThemeColor = "#334155"
-  showReadingTime = true
-  showTableOfContents = true
-  showRelatedContent = true
-  showWordCount = false
-  showEdit = false
+
+  # Features
+  showScrollToTop = true
   showViews = false
   showLikes = false
-  showAuthor = true
-  showDate = true
-  showBreadcrumbs = true
-  showPagination = true
-  showSummary = true
-  
-  [params.author]
-    name = "SmartWorkStack"
-    image = ""
-    headline = "AI Tools & Productivity Reviews"
-    bio = "We test and compare productivity tools so you don't have to. Honest reviews, real comparisons, no fluff."
-  
+
+  # Footer
+  [params.footer]
+    showCopyright = true
+    showThemeAttribution = false
+    showAppearanceSwitcher = true
+
+  # Homepage
+  [params.homepage]
+    layout = "background"
+    homepageImage = ""
+    showRecent = true
+    recentLimit = 12
+    cardView = true
+    cardViewScreenWidth = false
+    layoutBackgroundBlur = true
+
+  # Article defaults
   [params.article]
-    showTableOfContents = true
-    showRelatedContent = true
-    showBreadcrumbs = true
     showDate = true
     showDateUpdated = true
+    showReadingTime = true
+    showTableOfContents = true
+    showRelatedContent = true
+    relatedContentLimit = 3
+    showBreadcrumbs = true
+    showWordCount = false
+    showEdit = false
+    showViews = false
+    showLikes = false
     showAuthor = true
-    showHeadingAnchors = true
     showPagination = true
-  
-  [params.footer]
-    showScrollToTop = true
+    showSummary = true
+    sharingLinks = ["twitter", "linkedin", "reddit", "email"]
 
-  [params.homepage]
-    layout = "profile"
-    showRecent = true
-    recentLimit = 10
+  # List pages
+  [params.list]
+    showTableOfContents = false
+    showSummary = true
+    showCards = true
+    groupByYear = false
+    cardView = true
+    cardViewScreenWidth = false
 
+  # Taxonomy pages
+  [params.taxonomy]
+    showTermCount = true
+    cardView = true
+
+  # Author
+  [params.author]
+    name = "SmartWorkStack"
+    headline = "AI Tools & Productivity Reviews"
+    bio = "We test and compare AI tools so you don't have to. Honest reviews, real comparisons, no fluff."
+    # image = "img/author.jpg"
+    links = []
+
+  # Search (Fuse.js)
+  [params.fuse]
+    isCaseSensitive = false
+    shouldSort = true
+    location = 0
+    distance = 1000
+    threshold = 0.4
+    minMatchCharLength = 0
+    keys = ["title", "permalink", "summary", "content"]
+
+# ── Menus ────────────────────────────────────────────────────
+[menus]
+  [[menus.main]]
+    name = "Home"
+    pageRef = "/"
+    weight = 1
+  [[menus.main]]
+    name = "Articles"
+    pageRef = "/posts"
+    weight = 2
+  [[menus.main]]
+    name = "Tags"
+    pageRef = "/tags"
+    weight = 3
+  [[menus.main]]
+    name = "About"
+    pageRef = "/about"
+    weight = 4
+
+# ── SEO ──────────────────────────────────────────────────────
+[sitemap]
+  changefreq = "weekly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+# ── Markup ───────────────────────────────────────────────────
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
-    [markup.goldmark.extensions]
-      [markup.goldmark.extensions.passthrough]
-        enable = true
-        [markup.goldmark.extensions.passthrough.delimiters]
-          block = [['\[', '\]'], ['$$', '$$']]
-          inline = [['\(', '\)']]
-  [markup.highlight]
-    noClasses = false
   [markup.tableOfContents]
     startLevel = 2
-    endLevel = 4
-
-[[menu.main]]
-  name = "Articles"
-  pageRef = "posts"
-  weight = 2
-
-[[menu.main]]
-  name = "About"
-  pageRef = "about"
-  weight = 3
-
-[[menu.main]]
-  name = "Disclosure"
-  pageRef = "disclosure"
-  weight = 4
+    endLevel = 3
+    ordered = false
+  [markup.highlight]
+    noClasses = false
