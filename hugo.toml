@@ -1,39 +1,47 @@
 baseURL = "https://www.smartworkstack.com/"
 languageCode = "en-us"
-title = "AI Solopreneur Tools"
+title = "SmartWorkStack"
 theme = "congo"
 
 [params]
-  description = "Honest reviews and comparisons of AI tools for solopreneurs"
-  ShowReadingTime = true
-  ShowPostNavLinks = true
-  ShowBreadCrumbs = true
-  ShowToc = true
+  description = "AI tools, productivity, and automation for solopreneurs"
+  colorScheme = "congo"
+  defaultAppearance = "light"
+  autoSwitchAppearance = true
+  enableSearch = true
+  enableCodeCopy = true
+  enableImageLazyLoading = true
+  
+  [params.author]
+    name = "Amine"
+    image = ""
+    headline = "AI Tools & Productivity for Solopreneurs"
+    bio = ""
+  
+  [params.homepage]
+    layout = "posts"
+    showRecent = true
+    recentLimit = 10
 
-  # Affiliate links — replace with real links when you have them
-  # Use "#" as placeholder until you sign up for each program
-  affiliate_zapier = "#"
-  affiliate_make = "#"
-  affiliate_typeform = "#"
-  affiliate_hubspot = "#"
-  affiliate_stripe = "#"
-  affiliate_calendly = "#"
-  affiliate_notion = "#"
-  affiliate_canva = "#"
-  affiliate_grammarly = "#"
-  affiliate_todoist = "#"
-  affiliate_clickup = "#"
-  affiliate_monday = "#"
-  affiliate_asana = "#"
-  affiliate_freshbooks = "#"
-  affiliate_appsumo = "#"
+  [params.article]
+    showDate = true
+    showDateUpdated = true
+    showAuthor = true
+    showBreadcrumbs = true
+    showHeadingAnchors = true
+    showPagination = true
 
-[menu]
-  [[menu.main]]
-    name = "Home"
-    url = "/"
-    weight = 1
-  [[menu.main]]
-    name = "Disclosure"
-    url = "/disclosure/"
-    weight = 99
+[[languages.en.menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 1
+
+[[languages.en.menu.main]]
+  name = "About"
+  url = "/about/"
+  weight = 2
+
+[[languages.en.menu.main]]
+  name = "Disclosure"
+  url = "/disclosure/"
+  weight = 99
