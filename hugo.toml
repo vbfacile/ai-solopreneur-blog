@@ -5,7 +5,7 @@ theme = "congo"
 
 [params]
   description = "Honest reviews and comparisons of AI tools, productivity apps, and automation workflows for solopreneurs and remote workers."
-  colorScheme = "ocean"
+  colorScheme = "smartwork"
   defaultAppearance = "light"
   autoSwitchAppearance = true
   enableSearch = true
