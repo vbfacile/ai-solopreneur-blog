@@ -1,5 +1,6 @@
 ---
 title: "The Freelancer's Guide to AI Task Batching: Save 10+ Hours Weekly"
+image: "img/posts/ai-task-batching-freelancers.jpg"
 description: "Master AI task batching to eliminate context switching, reclaim 10+ hours weekly, and boost your hourly rate. Step-by-step guide with real freelancer results."
 slug: "ai-task-batching-freelancers"
 date: 2025-03-18

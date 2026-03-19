@@ -1,5 +1,6 @@
 ---
 title: "I Tested 7 AI Tools as a Freelance Writer—Here's What Actually Paid Off (2026)"
+image: "img/posts/best-ai-tools-freelance-content-creators.jpg"
 date: 2026-03-19
 description: "I tested Claude, ChatGPT Plus, Jasper, Copy.ai, Canva & more over 8 weeks. Real income impact data. No fluff—just which tools freelancers actually need."
 tags: ["ai tools", "freelance writing", "content creation", "productivity", "automation"]

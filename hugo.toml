@@ -18,7 +18,7 @@ theme = "blowfish"
 # ── Site Parameters ──────────────────────────────────────────
 [params]
   # Appearance
-  colorScheme = "blowfish"
+  colorScheme = "congo"
   defaultAppearance = "light"
   autoSwitchAppearance = true
   logo = "img/logo.png"
@@ -46,12 +46,12 @@ theme = "blowfish"
   # Homepage
   [params.homepage]
     layout = "background"
-    homepageImage = ""
     showRecent = true
     recentLimit = 12
     cardView = true
     cardViewScreenWidth = false
     layoutBackgroundBlur = true
+    homepageImage = "img/hero.jpg"
 
   # Article defaults
   [params.article]

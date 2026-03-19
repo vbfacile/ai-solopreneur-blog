@@ -1,5 +1,6 @@
 ---
 title: "How One-Person Businesses Use AI to Do the Work of 3 People"
+image: "img/posts/ai-automation-one-person-teams.jpg"
 description: "Discover the 5 AI systems solopreneurs use to reclaim 15+ hours weekly, scale without hiring, and increase revenue by $40K+/year. Complete implementation guide included."
 slug: "ai-automation-one-person-teams"
 date: 2025-03-18

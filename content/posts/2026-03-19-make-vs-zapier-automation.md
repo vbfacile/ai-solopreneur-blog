@@ -1,5 +1,6 @@
 ---
 title: "Make vs Zapier: Which Automation Platform Saves Solopreneurs More Time (And Money)?"
+image: "img/posts/make-vs-zapier-automation.jpg"
 date: 2026-03-19
 description: "I built 3 real workflows on both Make and Zapier. Speed, cost, integrations compared. Here's which platform actually wins for freelancers."
 tags: ["automation", "zapier", "make.com", "no-code", "productivity"]
