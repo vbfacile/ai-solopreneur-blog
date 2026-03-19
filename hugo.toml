@@ -1,7 +1,7 @@
 baseURL = "https://www.smartworkstack.com/"
 languageCode = "en-us"
 title = "AI Solopreneur Tools"
-theme = "PaperMod"
+theme = "congo"
 
 [params]
   description = "Honest reviews and comparisons of AI tools for solopreneurs"
