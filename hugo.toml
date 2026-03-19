@@ -5,13 +5,13 @@ theme = "congo"
 
 [params]
   description = "Honest reviews and comparisons of AI tools, productivity apps, and automation workflows for solopreneurs and remote workers."
-  colorScheme = "smartwork"
+  colorScheme = "slate"
   defaultAppearance = "light"
   autoSwitchAppearance = true
   enableSearch = true
   enableCodeCopy = true
   enableImageLazyLoading = true
-  defaultThemeColor = "#0369a1"
+  defaultThemeColor = "#334155"
   showReadingTime = true
   showTableOfContents = true
   showRelatedContent = true
