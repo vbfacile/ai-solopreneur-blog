@@ -162,7 +162,7 @@ Action 4: Send Slack message with sorted list
 
 **Why I recommend it:** Zapier is the most extensible. It connects to 6,000+ apps, so you can batch almost any workflow.
 
-**[Start with Zapier Free →]({{< param affiliate_zapier >}})**
+**[Start with Zapier Free →](https://zapier.com?utm_source=smartworkstack&utm_medium=referral)**
 
 ---
 
@@ -190,7 +190,7 @@ If neither: Auto-file to review later
 
 **Why I recommend it:** Cheaper than Zapier at scale, more flexible conditions, better for complex task types.
 
-**[Get Started with Make.com →]({{< param affiliate_make >}})**
+**[Get Started with Make.com →](https://make.com?utm_source=smartworkstack&utm_medium=referral)**
 
 ---
 
@@ -220,7 +220,7 @@ Let me walk you through building a real system. I'll show you how to batch email
 
 **Tools needed:**
 - Gmail (or your email)
-- [Zapier]({{< param affiliate_zapier >}}) (free account)
+- [Zapier](https://zapier.com?utm_source=smartworkstack&utm_medium=referral) (free account)
 - Google Calendar
 
 ### Implementation Steps
@@ -243,7 +243,7 @@ In Gmail settings, create labels:
 
 **Step 3: Set up Zapier automation**
 
-Login to [Zapier]({{< param affiliate_zapier >}}) and create 1 Zap:
+Login to [Zapier](https://zapier.com?utm_source=smartworkstack&utm_medium=referral) and create 1 Zap:
 
 ```
 Trigger: New email arrives in Gmail
@@ -333,7 +333,7 @@ Plus: "My writing quality improved because I'm not jumping between emails and co
 - Shipped 2 features instead of 1 per week
 - Billed 32 hours/week
 
-**Time investment:** 45 minutes to set up [Make.com]({{< param affiliate_make >}}) workflows
+**Time investment:** 45 minutes to set up [Make.com](https://make.com?utm_source=smartworkstack&utm_medium=referral) workflows
 **Weekly gain:** +7 billable hours = $525 (at $75/hr)
 **Monthly gain:** +$2,100
 **Annual gain:** +$27,300
@@ -404,7 +404,7 @@ This kills the entire purpose. You're back to context switching.
 ## Your Next Steps (This Week)
 
 1. **Create 2 calendar blocks** for email batches tomorrow
-2. **Set up [Zapier]({{< param affiliate_zapier >}})** (free account, 5 min)
+2. **Set up [Zapier](https://zapier.com?utm_source=smartworkstack&utm_medium=referral)** (free account, 5 min)
 3. **Label your emails** (Gmail labels, 3 min)
 4. **Run your first batch** (tomorrow, 10am)
 5. **Track the time saved** (for 2 weeks)
@@ -445,8 +445,8 @@ A: No. Start with Gmail labels + Google Calendar + Zapier free tier. You can do 
 
 ## Tools Mentioned
 
-- [Zapier]({{< param affiliate_zapier >}}) — Email + calendar automation
-- [Make.com]({{< param affiliate_make >}}) — Complex workflow automation
+- [Zapier](https://zapier.com?utm_source=smartworkstack&utm_medium=referral) — Email + calendar automation
+- [Make.com](https://make.com?utm_source=smartworkstack&utm_medium=referral) — Complex workflow automation
 - Gmail — Email + labels
 - Google Calendar — Calendar blocking
 - Claude API / [OpenAI API](https://openai.com/api) — AI task analysis
