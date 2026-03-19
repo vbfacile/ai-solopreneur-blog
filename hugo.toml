@@ -1,4 +1,4 @@
-baseURL = "https://www.smartworkstack.com/"
+baseURL = "https://smartworkstack.com/"
 languageCode = "en-us"
 title = "SmartWorkStack"
 theme = "congo"
