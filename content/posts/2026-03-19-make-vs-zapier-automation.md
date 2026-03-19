@@ -215,7 +215,7 @@ Here are three workflows I actually use that you can replicate:
 3. Add client to Slack workspace (optional)
 4. Create invoice in Airtable
 
-**I use:** [AFFILIATE:Zapier] (it's simpler for this workflow, and Make has fewer ClickUp features)
+**I use:** https://zapier.com (it's simpler for this workflow, and Make has fewer ClickUp features)
 
 **Setup:** 
 - Trigger: Google Form submission
@@ -231,7 +231,7 @@ Here are three workflows I actually use that you can replicate:
 
 **Goal:** When an invoice is unpaid after 7 days, send a reminder. When payment arrives, mark it in Airtable and post to Slack.
 
-**I use:** [AFFILIATE:Make] (better conditional routing for payment status)
+**I use:** https://make.com (better conditional routing for payment status)
 
 **Setup:**
 - Trigger: Check Airtable invoices daily (scheduled)
@@ -255,7 +255,7 @@ Here are three workflows I actually use that you can replicate:
 - Claude scores the lead
 - Router: If score > 7, post to #hot-leads; if 4-7, post to #warm-leads; if < 4, post to #cold-leads
 
-**Cost:** $10/month (Make) + $20/month ([AFFILIATE:Claude] API, which is very cheap for scoring use cases)
+**Cost:** $10/month (Make) + $20/month (https://claude.com API, which is very cheap for scoring use cases)
 
 **Why Make:** The Router module makes the conditional logic feel natural and organized. Zapier would require 3 separate Zaps and manual routing logic.
 
@@ -309,6 +309,6 @@ If you're currently on Zapier and thinking about moving to Make, here's how:
 
 **For my setup:** I'm staying hybrid. Make for complex workflows, Zapier for simple ones. It gives me flexibility without bloat.
 
-The real win isn't picking one platform. It's automating the stuff that drains your time and letting AI handle the rest. Whether you use [AFFILIATE:Make], [AFFILIATE:Zapier], or both, the productivity gain is the same.
+The real win isn't picking one platform. It's automating the stuff that drains your time and letting AI handle the rest. Whether you use https://make.com, https://zapier.com, or both, the productivity gain is the same.
 
 Start with one, commit to it for 30 days, then reevaluate. But start. Automation will multiply your hours faster than any other investment you can make as a solopreneur.

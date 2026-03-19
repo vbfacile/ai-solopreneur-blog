@@ -37,14 +37,14 @@ I used both for six weeks on identical projects—long-form articles, client bri
 
 **ChatGPT Plus wins on speed.** It responds 30-40% faster on most tasks. For quick copywriting or generating multiple options, the velocity matters. You feel it in your workflow.
 
-**Cost per article:** ChatGPT Plus is $20/month (unlimited). [AFFILIATE:Claude] (through Claude API or paid subscription, ~$50/month for serious use) is pricier. But Claude requires fewer revisions, so the math works out. For me: ChatGPT Plus saves time; Claude saves revision cycles.
+**Cost per article:** ChatGPT Plus is $20/month (unlimited). https://claude.com (through Claude API or paid subscription, ~$50/month for serious use) is pricier. But Claude requires fewer revisions, so the math works out. For me: ChatGPT Plus saves time; Claude saves revision cycles.
 
 Real data from my time-tracking:
 - ChatGPT Plus: 45 minutes avg per 2,000-word article (draft to polish)
 - Claude: 38 minutes avg per 2,000-word article (includes more useful first draft)
 - Time saved weekly: 4-6 hours with Claude + ChatGPT combo
 
-**My workflow:** I use [AFFILIATE:ChatGPT_Plus] for brainstorming and quick tasks (5-minute turnarounds). I use Claude for deep analysis and research-heavy work. Neither alone would cut it.
+**My workflow:** I use https://chat.openai.com for brainstorming and quick tasks (5-minute turnarounds). I use Claude for deep analysis and research-heavy work. Neither alone would cut it.
 
 ## Jasper AI: Still Worth It for Freelancers? (Honest Review)
 
@@ -76,7 +76,7 @@ Total: 5 hours. Manually writing 40 posts would've taken me 60+ hours.
 
 Cost: $100 for the month (I used Copy.ai's mid-tier plan). ROI on that single project: **incredible**.
 
-[AFFILIATE:Copy.ai] isn't perfect—editing is clunky, and quality is inconsistent at scale. But for batch processing, it's genuinely useful. Most freelancers don't know about this feature.
+https://copy.ai isn't perfect—editing is clunky, and quality is inconsistent at scale. But for batch processing, it's genuinely useful. Most freelancers don't know about this feature.
 
 **Who should use it:** Content agencies, anyone generating multiple pieces per week, clients with high tolerance for templated content.
 
@@ -96,7 +96,7 @@ Real workflow: Client says, "We need social graphics for this new product launch
 
 Manually creating those in Figma or Midjourney? 45 minutes minimum.
 
-**I use Canva Pro for 60% of my visual work now.** [AFFILIATE:Canva] isn't replacing Midjourney for high-end work, but it's replaced Figma for 70% of my throughput.
+**I use Canva Pro for 60% of my visual work now.** https://canva.com isn't replacing Midjourney for high-end work, but it's replaced Figma for 70% of my throughput.
 
 Monthly cost: $13. Time saved per month: 8-10 hours. That's a no-brainer affiliate link if you're recommending tools to clients.
 
@@ -165,7 +165,7 @@ I can't emphasize this enough. You need actual numbers.
 
 **Nice-to-have (depending on your niche):**
 - **Copy.ai** (pay-as-you-go) — Only if you do batch content
-- **[AFFILIATE:Zapier]** ($20-100/mo) — Workflow automation between tools
+- **https://zapier.com** ($20-100/mo) — Workflow automation between tools
 
 **Skip:**
 - Jasper (loses voice, not worth the cost)
@@ -186,4 +186,4 @@ But stop paying for tools you don't actually use. I see too many freelancers wit
 
 Test the stack I've outlined. Run it for 30 days. Track your time and income. If your hourly rate isn't up, you picked the wrong tools. But if you're seeing 25%+ productivity gains like I am, you've just found permanent leverage on your income.
 
-That's why I'm sticking with [AFFILIATE:Claude] and [AFFILIATE:ChatGPT_Plus] as my anchor tools. They've literally increased what I can deliver without burning out. Everything else is optimization.
+That's why I'm sticking with https://claude.com and https://chat.openai.com as my anchor tools. They've literally increased what I can deliver without burning out. Everything else is optimization.

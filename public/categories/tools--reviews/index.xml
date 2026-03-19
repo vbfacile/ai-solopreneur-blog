@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on AI Solopreneur Tools</title>
-    <link>https://www.smartworkstack.com/posts/</link>
-    <description>Recent content in Posts on AI Solopreneur Tools</description>
+    <title>Tools &amp; Reviews on AI Solopreneur Tools</title>
+    <link>https://www.smartworkstack.com/categories/tools--reviews/</link>
+    <description>Recent content in Tools &amp; Reviews on AI Solopreneur Tools</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 19 Mar 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.smartworkstack.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.smartworkstack.com/categories/tools--reviews/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>I Tested 7 AI Tools as a Freelance Writer—Here&#39;s What Actually Paid Off (2026)</title>
       <link>https://www.smartworkstack.com/posts/best-ai-tools-freelance-content-creators/</link>
@@ -21,20 +21,6 @@
       <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
       <guid>https://www.smartworkstack.com/posts/make-vs-zapier-automation/</guid>
       <description>I built 3 real workflows on both Make and Zapier. Speed, cost, integrations compared. Here&amp;#39;s which platform actually wins for freelancers.</description>
-    </item>
-    <item>
-      <title>How One-Person Businesses Use AI to Do the Work of 3 People</title>
-      <link>https://www.smartworkstack.com/posts/ai-automation-one-person-teams/</link>
-      <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.smartworkstack.com/posts/ai-automation-one-person-teams/</guid>
-      <description>Discover the 5 AI systems solopreneurs use to reclaim 15&#43; hours weekly, scale without hiring, and increase revenue by $40K&#43;/year. Complete implementation guide included.</description>
-    </item>
-    <item>
-      <title>The Freelancer&#39;s Guide to AI Task Batching: Save 10&#43; Hours Weekly</title>
-      <link>https://www.smartworkstack.com/posts/ai-task-batching-freelancers/</link>
-      <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.smartworkstack.com/posts/ai-task-batching-freelancers/</guid>
-      <description>Master AI task batching to eliminate context switching, reclaim 10&#43; hours weekly, and boost your hourly rate. Step-by-step guide with real freelancer results.</description>
     </item>
   </channel>
 </rss>
