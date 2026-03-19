@@ -14,7 +14,7 @@ theme = "congo"
   defaultThemeColor = "#1e293b"
   
   [params.author]
-    name = "Amine"
+    name = "SmartWorkStack"
     image = ""
     headline = "AI Tools & Productivity for Solopreneurs"
     bio = ""
