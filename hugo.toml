@@ -87,7 +87,7 @@ theme = "blowfish"
     name = "SmartWorkStack"
     headline = "AI Tools & Productivity Reviews"
     bio = "We test and compare AI tools so you don't have to. Honest reviews, real comparisons, no fluff."
-    # image = "img/author.jpg"
+    image = "img/author.png"
     links = []
 
   # Search (Fuse.js)
