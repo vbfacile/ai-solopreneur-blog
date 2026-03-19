@@ -25,11 +25,6 @@ theme = "congo"
   showPagination = true
   showSummary = true
   
-  [params.footer]
-    showScrollToTop = true
-    showCopyright = true
-    showThemeAttribution = true
-  
   [params.author]
     name = "SmartWorkStack"
     image = ""
@@ -37,15 +32,18 @@ theme = "congo"
     bio = "We test and compare productivity tools so you don't have to. Honest reviews, real comparisons, no fluff."
   
   [params.article]
+    showTableOfContents = true
+    showRelatedContent = true
+    showBreadcrumbs = true
     showDate = true
     showDateUpdated = true
     showAuthor = true
-    showBreadcrumbs = true
     showHeadingAnchors = true
     showPagination = true
-    showTableOfContents = true
-    showRelatedContent = true
   
+  [params.footer]
+    showScrollToTop = true
+
   [params.homepage]
     layout = "profile"
     showRecent = true
