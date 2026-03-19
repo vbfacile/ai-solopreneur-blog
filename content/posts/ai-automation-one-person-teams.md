@@ -173,7 +173,7 @@ If you're starting from scratch, automate these in this order:
 - Auto-send follow-ups if no response in X days
 - Daily digest: "You have 3 urgent emails, 12 standard, 50 low-priority"
 
-**Tools:** [Zapier]({{< param affiliate_zapier >}}) (easiest) or [Make.com]({{< param affiliate_make >}}) (more powerful)
+**Tools:** [Zapier](https://zapier.com?utm_source=smartworkstack&utm_medium=referral) (easiest) or [Make.com](https://make.com?utm_source=smartworkstack&utm_medium=referral) (more powerful)
 
 **Setup time:** 45 minutes  
 **ROI:** Check email 2x/day instead of 15x/day.
@@ -212,7 +212,7 @@ If you're starting from scratch, automate these in this order:
 - Auto-nurture: Not-ready-yet leads → email sequence every 2 weeks
 - Auto-reminder: "You have 3 qualified leads waiting"
 
-**Tools:** [Typeform]({{< param affiliate_typeform >}}) (forms), [HubSpot]({{< param affiliate_hubspot >}}) (CRM, lead scoring)
+**Tools:** [Typeform](https://typeform.com?utm_source=smartworkstack) (forms), [HubSpot](https://www.hubspot.com/partners/smartworkstack) (CRM, lead scoring)
 
 **Setup time:** 1.5 hours  
 **ROI:** Never miss a hot lead. Nurture bad fits automatically.
@@ -230,7 +230,7 @@ If you're starting from scratch, automate these in this order:
 - Late payment → auto-send reminder (day 14, 21, 30)
 - Monthly summary: "You invoiced $12,450. Received $9,800. Pending: $2,650"
 
-**Tools:** [Stripe]({{< param affiliate_stripe >}}) (payments), [Wave](https://www.waveapps.com) (free invoicing) or [HubSpot]({{< param affiliate_hubspot >}})
+**Tools:** [Stripe](https://stripe.com) (payments), [Wave](https://www.waveapps.com) (free invoicing) or [HubSpot](https://www.hubspot.com/partners/smartworkstack)
 
 **Setup time:** 1 hour  
 **ROI:** Get paid faster. Fewer chasing-payment emails.
@@ -248,7 +248,7 @@ If you're starting from scratch, automate these in this order:
 - Reminder: Pings you 15 min before the call
 - Follow-up: Auto-sends post-call email with next steps
 
-**Tools:** [Calendly]({{< param affiliate_calendly >}}) or [Acuity Scheduling](https://acuityscheduling.com)
+**Tools:** [Calendly](https://calendly.com?utm_source=smartworkstack) or [Acuity Scheduling](https://acuityscheduling.com)
 
 **Setup time:** 30 minutes  
 **ROI:** Eliminate 20+ minutes of back-and-forth per client.
@@ -279,7 +279,7 @@ This is the foundation of solo business automation.
 
 ### Step 1: Create Your Intake Form
 
-Go to [Typeform]({{< param affiliate_typeform >}}) (free account).
+Go to [Typeform](https://typeform.com?utm_source=smartworkstack) (free account).
 
 Create a form with these questions:
 1. "What's your name and email?"
@@ -301,7 +301,7 @@ Create a form with these questions:
 
 ### Step 2: Set Up Your CRM
 
-Go to [HubSpot]({{< param affiliate_hubspot >}}) (free tier is perfect).
+Go to [HubSpot](https://www.hubspot.com/partners/smartworkstack) (free tier is perfect).
 
 Create a simple list:
 - Company name
@@ -318,7 +318,7 @@ Create a simple list:
 
 ### Step 3: Connect Typeform → HubSpot
 
-Use [Zapier]({{< param affiliate_zapier >}}).
+Use [Zapier](https://zapier.com?utm_source=smartworkstack&utm_medium=referral).
 
 Create a Zap:
 
@@ -338,7 +338,7 @@ Field mapping:
 
 ### Step 4: Score Leads with AI Logic
 
-Still in [Zapier]({{< param affiliate_zapier >}}), add conditions:
+Still in [Zapier](https://zapier.com?utm_source=smartworkstack&utm_medium=referral), add conditions:
 
 ```
 If Budget = "$5K+" AND Timeline = "ASAP" → Lead score = 10 (hot lead)
@@ -366,7 +366,7 @@ If Lead score < 5:
 
 ### Step 5: Auto-Send Responses
 
-Still in [Zapier]({{< param affiliate_zapier >}}), add email actions:
+Still in [Zapier](https://zapier.com?utm_source=smartworkstack&utm_medium=referral), add email actions:
 
 **For hot leads (score 8+):**
 ```
@@ -413,7 +413,7 @@ For leads not ready to buy yet, send an email every 2 weeks:
 - **Email 3 (week 4):** "Case study: How [company] saved $XX with [solution]"
 - **Email 4 (week 6):** "Let's talk" (soft reminder to reach out)
 
-Use [HubSpot workflows]({{< param affiliate_hubspot >}}) or [Zapier]({{< param affiliate_zapier >}}) for automation.
+Use [HubSpot workflows](https://www.hubspot.com/partners/smartworkstack) or [Zapier](https://zapier.com?utm_source=smartworkstack&utm_medium=referral) for automation.
 
 **Setup time:** 30 minutes (writing emails)
 
@@ -468,10 +468,10 @@ Conservative estimate: Convert 50% to new revenue.
 **3. System Cost vs. Savings**
 
 If you're using:
-- [Zapier]({{< param affiliate_zapier >}}) ($25/mo)
-- [HubSpot]({{< param affiliate_hubspot >}}) ($0–$50/mo)
-- [Calendly]({{< param affiliate_calendly >}}) ($12/mo)
-- [Typeform]({{< param affiliate_typeform >}}) ($25/mo)
+- [Zapier](https://zapier.com?utm_source=smartworkstack&utm_medium=referral) ($25/mo)
+- [HubSpot](https://www.hubspot.com/partners/smartworkstack) ($0–$50/mo)
+- [Calendly](https://calendly.com?utm_source=smartworkstack) ($12/mo)
+- [Typeform](https://typeform.com?utm_source=smartworkstack) ($25/mo)
 
 **Total monthly cost:** ~$62/month = $744/year
 
@@ -532,7 +532,7 @@ The answer used to be "no." You'd hit a ceiling around $100K–$150K, then be fo
 **Systems automated:**
 1. Customer service: Chatbot answers 80% of questions ([Intercom](https://intercom.com))
 2. Refund requests: Auto-triaged (obvious refunds = auto-approved)
-3. Onboarding: Auto-sends welcome sequence ([Zapier]({{< param affiliate_zapier >}})
+3. Onboarding: Auto-sends welcome sequence ([Zapier](https://zapier.com?utm_source=smartworkstack&utm_medium=referral)
 4. Invoicing: Auto-generated from Gumroad data
 5. Billing issues: Auto-escalated to Jamal only if needed
 
@@ -561,9 +561,9 @@ The answer used to be "no." You'd hit a ceiling around $100K–$150K, then be fo
 - VA: Calendar + email + basic tasks
 
 **Systems automated:**
-1. Lead intake: Form → lead scoring ([HubSpot]({{< param affiliate_hubspot >}})
-2. Scheduling: [Calendly]({{< param affiliate_calendly >}})
-3. Invoicing: [HubSpot]({{< param affiliate_hubspot >}})
+1. Lead intake: Form → lead scoring ([HubSpot](https://www.hubspot.com/partners/smartworkstack)
+2. Scheduling: [Calendly](https://calendly.com?utm_source=smartworkstack)
+3. Invoicing: [HubSpot](https://www.hubspot.com/partners/smartworkstack)
 4. Follow-ups: Auto-send after calls
 5. Email: Auto-filter + priority sorting
 
@@ -587,7 +587,7 @@ The answer used to be "no." You'd hit a ceiling around $100K–$150K, then be fo
 **Problem:** 15 hours/week on project management (not coding) = lost revenue
 
 **Systems automated:**
-1. Project intake: Form captures all details ([Typeform]({{< param affiliate_typeform >}})
+1. Project intake: Form captures all details ([Typeform](https://typeform.com?utm_source=smartworkstack)
 2. Scope confirmation: Auto-sends scope doc
 3. Timeline: Auto-creates milestones
 4. Status updates: Auto-sends weekly progress emails
@@ -661,7 +661,7 @@ A: Absolutely. Start with email or scheduling. Add the next system after 2 weeks
 
 **Q: How much technical skill do I need?**
 
-A: None. [Zapier]({{< param affiliate_zapier >}}) and [HubSpot]({{< param affiliate_hubspot >}}) are built for non-technical people.
+A: None. [Zapier](https://zapier.com?utm_source=smartworkstack&utm_medium=referral) and [HubSpot](https://www.hubspot.com/partners/smartworkstack) are built for non-technical people.
 
 **Q: What if my business doesn't fit these 5 systems?**
 
@@ -671,14 +671,14 @@ A: Pick the 2–3 most painful tasks you do weekly. Those are your first systems
 
 ## Tools Mentioned
 
-- [Zapier]({{< param affiliate_zapier >}}) — Workflow automation
-- [Make.com]({{< param affiliate_make >}}) — Complex automation
-- [HubSpot]({{< param affiliate_hubspot >}}) — Free CRM
-- [Typeform]({{< param affiliate_typeform >}}) — Forms
-- [Calendly]({{< param affiliate_calendly >}}) — Scheduling
+- [Zapier](https://zapier.com?utm_source=smartworkstack&utm_medium=referral) — Workflow automation
+- [Make.com](https://make.com?utm_source=smartworkstack&utm_medium=referral) — Complex automation
+- [HubSpot](https://www.hubspot.com/partners/smartworkstack) — Free CRM
+- [Typeform](https://typeform.com?utm_source=smartworkstack) — Forms
+- [Calendly](https://calendly.com?utm_source=smartworkstack) — Scheduling
 - [Intercom](https://intercom.com) — Chatbots
 - [Zendesk](https://zendesk.com) — Support ticketing
-- [Stripe]({{< param affiliate_stripe >}}) — Payments
+- [Stripe](https://stripe.com) — Payments
 - [Wave](https://www.waveapps.com) — Free invoicing
 
 **Disclosure:** I earn affiliate commissions from these tools. This doesn't affect your pricing—it helps support this content. I only recommend tools I genuinely use and believe in.
