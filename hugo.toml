@@ -21,6 +21,9 @@ theme = "blowfish"
   colorScheme = "blowfish"
   defaultAppearance = "light"
   autoSwitchAppearance = true
+  logo = "img/logo.png"
+  logoDark = "img/logo-dark.png"
+  favicon = "favicon-32x32.png"
 
   # Site info
   description = "Honest reviews and comparisons of AI tools, productivity apps, and automation workflows for solopreneurs and remote workers."
