@@ -5,6 +5,7 @@ description: "I tested Claude, ChatGPT Plus, Jasper, Copy.ai, Canva & more over 
 tags: ["ai tools", "freelance writing", "content creation", "productivity", "automation"]
 categories: ["Tools & Reviews"]
 slug: "best-ai-tools-freelance-content-creators"
+featured: /posts/best-ai-tools-freelance-content-creators/featured.jpg
 draft: false
 ---
 

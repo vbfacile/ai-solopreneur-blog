@@ -5,6 +5,7 @@ description: "I built 3 real workflows on both Make and Zapier. Speed, cost, int
 tags: ["automation", "zapier", "make.com", "no-code", "productivity"]
 categories: ["Tools & Reviews"]
 slug: "make-vs-zapier-automation"
+featured: /posts/make-vs-zapier-automation/featured.jpg
 draft: false
 ---
 
