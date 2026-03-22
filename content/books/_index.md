@@ -50,7 +50,7 @@ Most automation guides are overly technical. This one isn't. It's practical, sol
 - Finances and invoicing: set and forget
 - Real results: what I actually automated this month
 
-**Price:** $6.99  
+**Price:** $5.99  
 **Format:** Kindle eBook (also available in print)  
 **Word count:** 15,000+ words
 
