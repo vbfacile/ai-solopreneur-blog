@@ -32,6 +32,17 @@ Some links on this site are affiliate links. If you purchase through our links, 
 - **No AI slop** — Human-written, tested, and verified
 - **Affiliate transparency** — We disclose when we benefit from links
 
+## Books by Nate Kellford
+
+Want practical guides you can use immediately? Check out the AI Solopreneur Series:
+
+- **[AI Tools That Actually Work](/books/)** — The 5 tools that save 20+ hours/week ($2.99)
+- **[Automate Everything](/books/)** — Automation systems for solopreneurs ($6.99)
+
+[Browse all books →](/books/)
+
+---
+
 ## Contact
 
 Have a question, suggestion, or tool you think we should review?
@@ -40,4 +51,4 @@ Email: hello@smartworkstack.com
 
 ---
 
-Built with ❤️ using Hugo + Congo theme. Hosted on Cloudflare Pages.
+Built with ❤️ using Hugo. Hosted on Cloudflare Pages.
