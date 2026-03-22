@@ -4,4 +4,4 @@ Disallow: /*.xml
 Disallow: /feed/
 Disallow: /feeds/
 
-Sitemap: https://www.smartworkstack.com/sitemap.xml
+Sitemap: https://smartworkstack.com/sitemap.xml
