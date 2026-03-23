@@ -29,8 +29,7 @@ I tested 100+ AI tools over 18 months. This book covers the ones that survived �
 **Format:** Kindle eBook (also available in print)  
 **Word count:** 12,000+ words
 
-**Status:** Coming Soon on Amazon (in review)  
-→ **[Check on Amazon →](https://www.amazon.com/s?k=AI+Tools+That+Actually+Work+Nate+Kellford)**
+→ **[Get it on Amazon Kindle](https://www.amazon.com/dp/B0GTJTQJP4)**
 
 ---
 
@@ -54,8 +53,7 @@ Most automation guides are overly technical. This one isn't. It's practical, sol
 **Format:** Kindle eBook (also available in print)  
 **Word count:** 15,000+ words
 
-**Status:** Coming Soon on Amazon (in review)  
-→ **[Check on Amazon →](https://www.amazon.com/s?k=Automate+Everything+Nate+Kellford)**
+→ **[Get it on Amazon Kindle](https://www.amazon.com/gp/aw/d/B0GTJD3441)**
 
 ---
 
