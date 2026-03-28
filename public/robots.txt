@@ -3,5 +3,5 @@ Allow: /
 Disallow: /*.xml
 Disallow: /feed/
 Disallow: /feeds/
-
+Disallow: /cdn-cgi/
 Sitemap: https://smartworkstack.com/sitemap.xml
