@@ -496,6 +496,4 @@ Learn more about building income streams with:
 
 ---
 
-**Word count: 3,186 words**
-
-*Posted on {{.Date.Format "Jan 2, 2006"}} | Reading time: 15 minutes*
+*Posted on April 4, 2026 | Reading time: 15 minutes*

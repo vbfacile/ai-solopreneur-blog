@@ -363,6 +363,4 @@ If you're not at least experimenting with this, you're probably losing ground to
 
 ---
 
-**Word count: 2,847 words**
-
-*Posted on {{.Date.Format "Jan 2, 2006"}} | Reading time: 13 minutes*
+*Posted on April 4, 2026 | Reading time: 13 minutes*

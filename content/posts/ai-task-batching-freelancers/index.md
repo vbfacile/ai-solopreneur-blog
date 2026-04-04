@@ -456,10 +456,6 @@ A: No. Start with Gmail labels + Google Calendar + Zapier free tier. You can do 
 
 ---
 
-**Word count:** 2,847 words  
-**Reading time:** 10–12 minutes  
-**SEO Score:** 9/10  
-
 **CORE-EEAT Checklist:**
 - ✅ Intent Alignment: Article directly answers "how to batch tasks with AI"
 - ✅ Direct Answer: Core advice in first 200 words
