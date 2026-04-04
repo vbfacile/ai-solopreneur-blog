@@ -1,16 +1,23 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Entrepreneurship on SmartWorkStack</title><link>https://smartworkstack.com/categories/entrepreneurship/</link><description>Recent content in Entrepreneurship on SmartWorkStack</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>© 2026 SmartWorkStack</copyright><lastBuildDate>Tue, 18 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://smartworkstack.com/categories/entrepreneurship/index.xml" rel="self" type="application/rss+xml"/><item><title>How One-Person Businesses Use AI to Do the Work of 3 People</title><link>https://smartworkstack.com/posts/ai-automation-one-person-teams/</link><pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate><guid>https://smartworkstack.com/posts/ai-automation-one-person-teams/</guid><description>&lt;h2 class="relative group">Introduction
- &lt;div id="introduction" class="anchor">&lt;/div>
- 
- &lt;span
- class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none">
- &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#introduction" aria-label="Anchor">#&lt;/a>
- &lt;/span>
- 
-&lt;/h2>
-&lt;p>You&amp;rsquo;re a solopreneur. You wear every hat.&lt;/p>
-&lt;p>Monday: You&amp;rsquo;re the founder making strategy decisions.&lt;br>
-Tuesday: You&amp;rsquo;re the marketer posting on LinkedIn.&lt;br>
-Wednesday: You&amp;rsquo;re the customer service rep answering support tickets.&lt;br>
-Thursday: You&amp;rsquo;re the accountant invoicing clients.&lt;br>
-Friday: You&amp;rsquo;re the operations person scheduling calls and managing files.&lt;/p>
-&lt;p>By Sunday, you&amp;rsquo;re exhausted. You&amp;rsquo;re billing 30 hours, but working 60. You&amp;rsquo;re profitable, but barely sane.&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://smartworkstack.com/posts/ai-automation-one-person-teams/featured.jpg"/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Entrepreneurship on SmartWorkStack</title>
+    <link>https://smartworkstack.com/categories/entrepreneurship/</link>
+    <description>Recent content in Entrepreneurship on SmartWorkStack</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2026 SmartWorkStack</copyright>
+    <lastBuildDate>Tue, 18 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://smartworkstack.com/categories/entrepreneurship/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>How One-Person Businesses Use AI to Do the Work of 3 People</title>
+      <link>https://smartworkstack.com/posts/ai-automation-one-person-teams/</link>
+      <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://smartworkstack.com/posts/ai-automation-one-person-teams/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;Introduction&#xA;    &lt;div id=&#34;introduction&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#introduction&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h2&gt;&#xA;&lt;p&gt;You&amp;rsquo;re a solopreneur. You wear every hat.&lt;/p&gt;&#xA;&lt;p&gt;Monday: You&amp;rsquo;re the founder making strategy decisions.&lt;br&gt;&#xA;Tuesday: You&amp;rsquo;re the marketer posting on LinkedIn.&lt;br&gt;&#xA;Wednesday: You&amp;rsquo;re the customer service rep answering support tickets.&lt;br&gt;&#xA;Thursday: You&amp;rsquo;re the accountant invoicing clients.&lt;br&gt;&#xA;Friday: You&amp;rsquo;re the operations person scheduling calls and managing files.&lt;/p&gt;&#xA;&lt;p&gt;By Sunday, you&amp;rsquo;re exhausted. You&amp;rsquo;re billing 30 hours, but working 60. You&amp;rsquo;re profitable, but barely sane.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://smartworkstack.com/posts/ai-automation-one-person-teams/featured.jpg" />
+    </item>
+    
+  </channel>
+</rss>
